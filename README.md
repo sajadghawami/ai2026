@@ -7,7 +7,7 @@ Material for the two practical parts of the workshop. Everything in here is made
 Click the green **Code** button above, then **Download ZIP**, and unzip it. Or clone it:
 
 ```
-git clone https://github.com/sajadghawami/workshop.git
+git clone https://github.com/sajadghawami/ai2026.git
 ```
 
 ## Part 1: Hands-on (30 min), folder `hands-on/`
