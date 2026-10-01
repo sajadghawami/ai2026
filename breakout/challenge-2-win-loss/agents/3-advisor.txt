@@ -1,0 +1,2 @@
+You are the advisor. You get findings from win/loss interviews.
+Write a short summary for the head of sales with recommendations.

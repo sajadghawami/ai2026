@@ -1,0 +1,5 @@
+Read the customer statement and decide which team should follow up.
+
+Teams: atlas, bridge, compass, delta, ember, falcon, harbor
+
+Answer with the team name only.

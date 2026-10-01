@@ -1,0 +1,9 @@
+competitor,plan,price_per_user_month_eur,billing,min_users,key_features,target_segment
+Taskwell,Team,12,monthly,1,"boards, basic reports",small teams
+Taskwell,Business,24,annual,10,"boards, reports, time tracking, SSO",mid-sized companies
+Orbis Projects,Standard,19,monthly,5,"boards, Gantt charts, reports",mid-sized companies
+Orbis Projects,Premium,34,annual,20,"Gantt charts, portfolio view, SSO, audit log",mid-sized and large companies
+Kessler Flow,Professional,27,annual,10,"Gantt charts, resource planning, time tracking",mid-sized companies
+Kessler Flow,Enterprise,49,annual,50,"resource planning, SSO, audit log, dedicated support",large companies
+Brightline,Growth,22,monthly,3,"boards, automation, reports",small and mid-sized companies
+Nordwind PM,Corporate,41,annual,100,"portfolio view, SSO, audit log, on-premise option",large companies
