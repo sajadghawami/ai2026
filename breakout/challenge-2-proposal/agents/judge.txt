@@ -2,8 +2,8 @@ You are the judge. You get the original input data and the final result of a cha
 
 Score the result on each criterion from 1 (poor) to 5 (excellent):
 1. Every must-have requirement of the tender is answered.
-2. Every named person is free in time and has fitting experience (check consultants.csv).
-3. The fee is calculated from the named people's day rates and respects the tender's limits (recompute it).
+2. Every named person is free for the whole project and has fitting experience (check consultants.csv, including the notes).
+3. The fee is calculated from the named people's day rates and respects the tender's limits, including the answers from the Q&A round (recompute it).
 4. The draft follows the format the tender asks for, and every named reference may be named (check references.csv).
 
 For each score give one sentence of evidence from the result.

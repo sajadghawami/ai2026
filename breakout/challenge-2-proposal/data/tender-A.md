@@ -31,3 +31,12 @@ At most two pages, in this order: understanding of the task, approach, team, tim
 Approach 40%, fee 30%, team and references 30%.
 
 **Deadline for proposals:** 16 October 2026, 12:00.
+
+## Answers from the Q&A round (9 October 2026)
+
+These answers are part of the tender. Where they differ from the text above, the answers apply.
+
+1. *Can the project run longer than 12 weeks if the start is earlier?* No. 12 weeks is the maximum in every case.
+2. *Does the project lead have to be on site in person?* Yes. The project lead must be based in Germany and speak German.
+3. *Is the budget ceiling fixed?* The supervisory board has lowered the ceiling to €205,000 excluding VAT. Offers above it are excluded.
+4. *Do you need printed copies?* No, a PDF is enough.

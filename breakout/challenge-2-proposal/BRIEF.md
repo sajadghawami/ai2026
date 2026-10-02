@@ -23,7 +23,7 @@ A tender arrives on Monday, the proposal is due on Friday, and the first day goe
 Both cases use the files of your fictional consulting firm in `data/`:
 
 - `our-profile.md`: who we are and how we work
-- `consultants.csv`: 48 people with level, day rate, sector experience and the date they are free
+- `consultants.csv`: 48 people with level, day rate, sector experience, the date they are free and notes
 - `references.csv`: 30 past projects, and whether we may name the client
 - `past-proposals.csv`: 100 earlier proposals with fee, budget ceiling and outcome
 
