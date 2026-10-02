@@ -19,7 +19,7 @@ Let the model improve a prompt, then test it on data it has never seen.
 
 ## Part 2: Breakout (65 min), folder `breakout/`
 
-Your group builds a small team of AI agents for one of four challenges.
+Your group builds a small team of AI agents for one of two challenges. The cases are simplified, but they are real decisions, and you build a real agent network. You don't need to know anything about pricing.
 
 1. Read `breakout/shared/HOW-IT-WORKS` and find your role in `breakout/shared/ROLE-CARDS`.
 2. Open your challenge folder and read its `BRIEF`.
@@ -27,9 +27,7 @@ Your group builds a small team of AI agents for one of four challenges.
 | Folder | Challenge |
 |---|---|
 | `challenge-1-price-memo` | Turn product and competitor data into a price recommendation for a CEO. |
-| `challenge-2-win-loss` | Turn notes from won and lost deals into findings for the head of sales. |
-| `challenge-3-excel-report` | Turn a messy monthly export into a clean management report. |
-| `challenge-4-proposal` | Turn a tender into a first proposal draft. |
+| `challenge-2-proposal` | Turn a tender into a first proposal draft. |
 
 **Developers:** open your challenge folder in Codex and say `run the chain on case A`, then continue with `DEVELOPER-TRACK.md`.
 

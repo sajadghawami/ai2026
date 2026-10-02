@@ -3,6 +3,8 @@
 **Goal:** your group builds a small team of AI agents that solves one task, and a judge agent that scores the result.
 **Time:** 40 minutes of group work, then 3 minutes to show it.
 
+The cases are simplified so they fit into 40 minutes. They are still real decisions, and you build a real agent network for them. You don't need to know anything about pricing.
+
 ## The idea: you are the harness
 
 In the talk, the harness was the body around the model: it runs the loop and passes results from one step to the next. Today you do that job by hand.
