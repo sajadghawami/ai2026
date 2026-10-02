@@ -12,11 +12,12 @@ Open this folder in Codex and say `run the chain on case A`. `AGENTS.md` tells C
 
 A judge that is an LLM can be talked into a good score. Some things can be checked with code instead. Ask Codex to build `checks.py` with tests (`pytest`) for the checks below, then run them on the latest result in `runs/`.
 
-- Recompute the fee from the day rates in `data/our-profile.md` and the days in the plan. It must match the draft and stay under the tender's ceiling.
+- Recompute the fee from the named people's day rates in `consultants.csv` and the days in the plan. It must match the draft and stay under the tender's ceiling.
+- Every named person exists in `consultants.csv`, is free before the project starts and has the sector experience the tender asks for.
 - The timeline fits the tender's start and end dates and the firm's earliest start.
 - Every requirement and every condition in the tender is mentioned in the draft.
 - The draft has the sections the tender asks for, in that order, and fits the page limit (about 450 words per page).
-- Every reference named in the draft appears in `data/our-profile.md`.
+- Every reference named in the draft appears in `references.csv` with `may_name_client` = yes.
 
 Keep the checks honest: they read the original data files, never the agents' output, to find out what is true.
 

@@ -2,9 +2,9 @@ You are the judge. You get the original input data and the final result of a cha
 
 Score the result on each criterion from 1 (poor) to 5 (excellent):
 1. Every must-have requirement of the tender is answered.
-2. Fee and timeline respect the limits in the tender (recompute the fee from the day rates).
-3. The draft follows the format the tender asks for.
-4. Nothing about our firm is invented.
+2. Every named person is free in time and has fitting experience (check consultants.csv).
+3. The fee is calculated from the named people's day rates and respects the tender's limits (recompute it).
+4. The draft follows the format the tender asks for, and every named reference may be named (check references.csv).
 
 For each score give one sentence of evidence from the result.
 Then give the total and name the one thing that would improve the result most.

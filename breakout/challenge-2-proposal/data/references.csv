@@ -1,0 +1,31 @@
+project_id,client,sector,year,topic,result,may_name_client
+P01,regional gas supplier,energy,2024,tariff redesign,margin +4% in 12 months,yes
+P02,municipal electricity supplier,energy,2022,tariff simplification,from 19 to 7 tariffs,yes
+P03,regional water utility,utilities,2025,price structure review,not public,no
+P04,kitchen manufacturer,furniture,2025,dealer discount system,discount range cut from 18 to 6 points,yes
+P05,bicycle manufacturer,industrial goods,2023,dealer pricing and bonus scheme,not public,no
+P06,rail operator,rail,2023,ticket pricing,revenue +3%,yes
+P07,energy trading company,energy,2025,sales effectiveness,not public,no
+P08,software company,software,2021,channel pricing,not public,no
+P09,banking company,banking,2026,value-based pricing,not public,yes
+P10,consumer goods company,consumer goods,2026,discount governance,not public,no
+P11,consumer goods company,consumer goods,2019,value-based pricing,discount spread halved,no
+P12,industrial goods company,industrial goods,2019,value-based pricing,discount spread halved,no
+P13,rail company,rail,2025,channel pricing,not public,no
+P14,utilities company,utilities,2023,packaging,not public,no
+P15,industrial goods company,industrial goods,2023,price increase,revenue +5%,yes
+P16,rail company,rail,2022,channel pricing,not public,no
+P17,consumer goods company,consumer goods,2019,packaging,not public,no
+P18,software company,software,2022,channel pricing,discount spread halved,yes
+P19,telecom company,telecom,2021,value-based pricing,not public,yes
+P20,retail company,retail,2022,discount governance,margin +2%,yes
+P21,industrial goods company,industrial goods,2025,channel pricing,discount spread halved,yes
+P22,software company,software,2022,price increase,discount spread halved,no
+P23,industrial goods company,industrial goods,2020,packaging,discount spread halved,no
+P24,banking company,banking,2023,value-based pricing,margin +2%,yes
+P25,telecom company,telecom,2019,price increase,discount spread halved,yes
+P26,telecom company,telecom,2026,price increase,discount spread halved,yes
+P27,rail company,rail,2019,discount governance,discount spread halved,yes
+P28,software company,software,2025,packaging,revenue +5%,no
+P29,banking company,banking,2023,pricing strategy,margin +2%,yes
+P30,rail company,rail,2025,channel pricing,discount spread halved,yes

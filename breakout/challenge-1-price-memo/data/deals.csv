@@ -1,0 +1,201 @@
+deal_id,date,segment,users,list_price_eur,discount_pct,competitor,sso_required,outcome,loss_reason
+D001,2025-10-01,small,4,29,5,Brightline,no,lost,minimum of 10 users
+D002,2025-10-01,mid,92,29,10,Kessler Flow,no,won,
+D003,2025-10-02,large,243,29,0,Kessler Flow,yes,won,
+D004,2025-10-02,mid,58,29,25,Orbis Projects,yes,lost,features
+D005,2025-10-03,mid,88,29,20,Brightline,yes,lost,price
+D006,2025-10-04,small,14,29,15,none,no,won,
+D007,2025-10-12,mid,23,29,0,none,yes,won,
+D008,2025-10-17,mid,40,29,15,Taskwell,no,lost,features
+D009,2025-10-17,mid,20,29,0,Taskwell,no,won,
+D010,2025-10-18,mid,78,29,25,Orbis Projects,yes,won,
+D011,2025-10-18,mid,70,29,20,Kessler Flow,yes,lost,price
+D012,2025-10-19,mid,24,29,15,Kessler Flow,yes,won,
+D013,2025-10-19,mid,43,29,25,Taskwell,no,lost,price
+D014,2025-10-25,mid,28,29,10,Kessler Flow,no,won,
+D015,2025-10-27,mid,20,29,5,Kessler Flow,no,won,
+D016,2025-11-01,mid,95,29,15,Taskwell,yes,won,
+D017,2025-11-02,small,7,29,15,Taskwell,no,lost,minimum of 10 users
+D018,2025-11-02,mid,45,29,0,none,no,won,
+D019,2025-11-04,mid,29,29,5,Orbis Projects,no,won,
+D020,2025-11-04,mid,62,29,5,none,no,won,
+D021,2025-11-05,mid,100,29,0,Kessler Flow,no,won,
+D022,2025-11-05,mid,27,29,10,Orbis Projects,yes,lost,features
+D023,2025-11-12,mid,38,29,0,none,no,won,
+D024,2025-11-13,mid,34,29,15,Kessler Flow,no,won,
+D025,2025-11-14,mid,54,29,15,Kessler Flow,no,won,
+D026,2025-11-15,mid,24,29,0,Kessler Flow,no,won,
+D027,2025-11-18,small,6,29,0,Kessler Flow,no,lost,minimum of 10 users
+D028,2025-11-19,mid,29,29,15,none,yes,won,
+D029,2025-11-19,small,6,29,15,Kessler Flow,no,lost,minimum of 10 users
+D030,2025-11-19,mid,56,29,15,none,yes,won,
+D031,2025-11-20,small,3,29,25,Kessler Flow,no,lost,minimum of 10 users
+D032,2025-11-24,mid,51,29,20,none,no,won,
+D033,2025-11-28,mid,67,29,0,none,no,won,
+D034,2025-12-07,mid,63,29,0,Orbis Projects,yes,lost,price
+D035,2025-12-09,mid,38,29,10,Taskwell,yes,won,
+D036,2025-12-11,mid,33,29,10,Kessler Flow,no,won,
+D037,2025-12-14,small,17,29,20,none,no,lost,timing
+D038,2025-12-14,mid,75,29,15,Orbis Projects,no,lost,features
+D039,2025-12-15,large,249,29,0,Kessler Flow,yes,won,
+D040,2025-12-15,small,11,29,25,Brightline,no,lost,features
+D041,2025-12-16,mid,33,29,0,Taskwell,no,won,
+D042,2025-12-16,large,296,29,15,none,yes,lost,budget
+D043,2025-12-17,mid,56,29,10,none,no,won,
+D044,2025-12-18,mid,50,29,25,Kessler Flow,no,won,
+D045,2025-12-20,mid,51,29,0,none,no,won,
+D046,2025-12-23,small,8,29,20,Brightline,no,lost,minimum of 10 users
+D047,2025-12-24,mid,99,29,5,none,yes,won,
+D048,2025-12-25,mid,26,29,5,Kessler Flow,no,won,
+D049,2025-12-26,small,3,29,5,none,no,lost,minimum of 10 users
+D050,2025-12-28,small,14,29,10,Brightline,no,won,
+D051,2026-01-01,mid,23,29,15,Taskwell,yes,lost,missing SSO
+D052,2026-01-02,mid,56,29,10,Kessler Flow,no,lost,price
+D053,2026-01-03,small,16,29,20,Taskwell,no,lost,features
+D054,2026-01-05,mid,74,29,0,Orbis Projects,no,lost,features
+D055,2026-01-06,large,247,29,10,Taskwell,yes,lost,missing SSO
+D056,2026-01-09,large,130,29,0,Taskwell,yes,lost,missing SSO
+D057,2026-01-13,small,5,29,20,Orbis Projects,no,lost,minimum of 10 users
+D058,2026-01-13,small,17,29,0,Kessler Flow,no,lost,price
+D059,2026-01-14,mid,23,29,5,Taskwell,yes,lost,missing SSO
+D060,2026-01-15,mid,78,29,0,Taskwell,no,won,
+D061,2026-01-25,large,237,29,5,Taskwell,no,won,
+D062,2026-01-29,mid,38,29,25,Brightline,no,won,
+D063,2026-01-30,small,15,29,25,Taskwell,no,lost,features
+D064,2026-01-31,mid,56,29,10,Kessler Flow,yes,won,
+D065,2026-02-05,small,18,29,20,Kessler Flow,no,won,
+D066,2026-02-06,small,11,29,20,Orbis Projects,no,lost,price
+D067,2026-02-09,small,4,29,25,Orbis Projects,no,lost,minimum of 10 users
+D068,2026-02-13,mid,71,29,10,Kessler Flow,no,won,
+D069,2026-02-15,mid,82,29,20,Taskwell,yes,lost,missing SSO
+D070,2026-02-18,mid,39,29,20,Taskwell,no,lost,features
+D071,2026-02-21,small,12,29,0,Orbis Projects,no,lost,features
+D072,2026-02-21,mid,44,29,15,Taskwell,no,lost,features
+D073,2026-02-25,large,193,29,15,Orbis Projects,yes,lost,missing SSO
+D074,2026-02-26,small,19,29,15,Orbis Projects,no,won,
+D075,2026-02-28,small,19,29,10,Taskwell,no,lost,features
+D076,2026-03-03,small,16,29,5,none,no,won,
+D077,2026-03-05,mid,63,29,10,Brightline,no,lost,features
+D078,2026-03-08,mid,20,29,0,Taskwell,no,won,
+D079,2026-03-08,mid,27,29,5,Kessler Flow,no,won,
+D080,2026-03-09,mid,51,29,10,none,no,won,
+D081,2026-03-10,mid,21,29,10,Taskwell,yes,lost,missing SSO
+D082,2026-03-10,small,16,29,15,none,yes,lost,budget
+D083,2026-03-12,mid,44,29,5,Taskwell,no,won,
+D084,2026-03-15,mid,39,29,10,none,yes,won,
+D085,2026-03-15,small,3,29,25,none,no,lost,minimum of 10 users
+D086,2026-03-16,mid,79,29,5,Brightline,no,lost,price
+D087,2026-03-19,mid,40,29,10,Taskwell,no,won,
+D088,2026-03-21,small,5,29,25,Taskwell,no,lost,minimum of 10 users
+D089,2026-03-22,mid,39,29,5,Kessler Flow,no,lost,price
+D090,2026-03-23,mid,40,29,10,Taskwell,no,lost,features
+D091,2026-03-23,large,235,29,5,Kessler Flow,yes,lost,price
+D092,2026-03-28,mid,23,29,25,Kessler Flow,no,lost,price
+D093,2026-03-28,large,131,29,0,Taskwell,yes,lost,missing SSO
+D094,2026-03-31,small,14,29,15,Orbis Projects,no,won,
+D095,2026-03-31,mid,62,29,0,Kessler Flow,no,lost,price
+D096,2026-04-03,mid,32,29,10,Orbis Projects,no,lost,features
+D097,2026-04-05,small,7,29,5,Kessler Flow,no,lost,minimum of 10 users
+D098,2026-04-07,large,189,29,5,Kessler Flow,yes,lost,timing
+D099,2026-04-08,large,107,29,15,Brightline,no,lost,price
+D100,2026-04-11,mid,36,29,15,none,yes,won,
+D101,2026-04-12,small,11,29,0,Brightline,yes,won,
+D102,2026-04-14,small,4,29,20,none,yes,lost,minimum of 10 users
+D103,2026-04-15,mid,37,29,15,Kessler Flow,no,lost,timing
+D104,2026-04-18,mid,31,29,0,Kessler Flow,yes,won,
+D105,2026-04-21,large,172,29,20,Kessler Flow,yes,won,
+D106,2026-04-22,small,13,29,20,Kessler Flow,no,lost,price
+D107,2026-04-25,mid,23,29,20,Taskwell,no,lost,features
+D108,2026-04-29,mid,57,29,0,Taskwell,no,won,
+D109,2026-05-01,small,18,29,20,Brightline,no,lost,price
+D110,2026-05-05,mid,73,29,5,none,no,won,
+D111,2026-05-08,mid,89,29,20,Taskwell,no,lost,features
+D112,2026-05-09,mid,20,29,10,Orbis Projects,yes,lost,features
+D113,2026-05-10,mid,20,29,10,Orbis Projects,yes,won,
+D114,2026-05-11,small,5,29,20,none,yes,lost,minimum of 10 users
+D115,2026-05-12,mid,37,29,25,Orbis Projects,yes,won,
+D116,2026-05-12,small,6,29,5,none,no,lost,minimum of 10 users
+D117,2026-05-14,mid,79,29,10,Kessler Flow,yes,lost,price
+D118,2026-05-15,mid,27,29,20,Taskwell,yes,lost,missing SSO
+D119,2026-05-18,mid,24,29,20,none,no,won,
+D120,2026-05-18,mid,52,29,15,Orbis Projects,no,lost,features
+D121,2026-05-20,mid,36,29,25,Kessler Flow,no,won,
+D122,2026-05-22,mid,67,29,20,Taskwell,yes,lost,missing SSO
+D123,2026-05-24,large,230,29,0,Orbis Projects,yes,won,
+D124,2026-05-25,mid,27,29,15,Taskwell,no,lost,price
+D125,2026-05-25,mid,30,29,10,none,yes,won,
+D126,2026-05-25,mid,76,29,5,Taskwell,no,won,
+D127,2026-05-28,mid,40,29,25,Kessler Flow,no,won,
+D128,2026-05-29,large,214,29,0,Kessler Flow,yes,won,
+D129,2026-05-30,mid,40,29,10,Taskwell,yes,lost,missing SSO
+D130,2026-05-31,small,18,29,5,Orbis Projects,no,lost,features
+D131,2026-06-03,large,289,29,0,none,yes,lost,timing
+D132,2026-06-04,mid,40,29,20,Taskwell,yes,lost,missing SSO
+D133,2026-06-08,mid,35,29,0,Taskwell,yes,lost,missing SSO
+D134,2026-06-09,small,16,29,25,Kessler Flow,no,lost,timing
+D135,2026-06-10,mid,47,29,20,Taskwell,yes,lost,missing SSO
+D136,2026-06-11,mid,36,29,25,Kessler Flow,no,lost,price
+D137,2026-06-12,mid,39,29,20,Taskwell,yes,lost,missing SSO
+D138,2026-06-15,mid,27,29,25,none,yes,won,
+D139,2026-06-16,mid,85,29,5,Kessler Flow,no,won,
+D140,2026-06-16,mid,81,29,5,Taskwell,yes,lost,missing SSO
+D141,2026-06-19,mid,37,29,10,Orbis Projects,no,won,
+D142,2026-06-25,mid,60,29,15,Taskwell,yes,lost,missing SSO
+D143,2026-06-28,small,19,29,0,none,no,won,
+D144,2026-06-28,mid,40,29,0,Kessler Flow,yes,lost,features
+D145,2026-06-30,mid,32,29,5,Kessler Flow,no,lost,price
+D146,2026-06-30,mid,38,29,25,Kessler Flow,no,lost,features
+D147,2026-07-01,mid,32,29,5,Taskwell,no,won,
+D148,2026-07-05,small,10,29,20,Orbis Projects,yes,lost,price
+D149,2026-07-06,large,190,29,5,Taskwell,no,won,
+D150,2026-07-06,mid,69,29,0,Kessler Flow,yes,won,
+D151,2026-07-06,small,9,29,15,none,yes,lost,minimum of 10 users
+D152,2026-07-08,small,17,29,0,Orbis Projects,no,lost,features
+D153,2026-07-08,mid,34,29,0,Kessler Flow,yes,won,
+D154,2026-07-09,small,11,29,25,Kessler Flow,yes,lost,features
+D155,2026-07-09,mid,33,29,15,Kessler Flow,yes,lost,price
+D156,2026-07-22,large,210,29,10,Kessler Flow,yes,won,
+D157,2026-07-26,mid,37,29,15,none,yes,won,
+D158,2026-07-27,mid,63,29,15,Taskwell,yes,lost,missing SSO
+D159,2026-07-28,mid,85,29,5,Taskwell,no,lost,features
+D160,2026-07-28,small,19,29,0,none,no,won,
+D161,2026-07-28,large,131,29,20,Kessler Flow,yes,won,
+D162,2026-08-01,mid,69,29,15,Taskwell,no,lost,price
+D163,2026-08-02,small,13,29,20,Kessler Flow,no,lost,price
+D164,2026-08-02,mid,24,29,10,Kessler Flow,no,won,
+D165,2026-08-03,mid,20,29,5,Kessler Flow,yes,lost,price
+D166,2026-08-03,mid,60,29,5,Taskwell,no,lost,features
+D167,2026-08-04,mid,35,29,5,none,yes,won,
+D168,2026-08-05,large,108,29,15,Taskwell,yes,lost,missing SSO
+D169,2026-08-05,mid,36,29,0,Taskwell,yes,lost,missing SSO
+D170,2026-08-07,large,135,29,20,Taskwell,yes,lost,missing SSO
+D171,2026-08-08,mid,86,29,20,none,no,won,
+D172,2026-08-08,mid,69,29,5,Kessler Flow,no,won,
+D173,2026-08-08,mid,37,29,20,Taskwell,yes,lost,missing SSO
+D174,2026-08-10,mid,36,29,10,none,no,won,
+D175,2026-08-12,mid,50,29,15,Taskwell,no,won,
+D176,2026-08-13,small,9,29,5,Taskwell,no,lost,minimum of 10 users
+D177,2026-08-15,mid,32,29,20,Kessler Flow,no,lost,price
+D178,2026-08-21,mid,25,29,0,Orbis Projects,yes,lost,features
+D179,2026-08-23,mid,33,29,25,Kessler Flow,yes,won,
+D180,2026-08-23,mid,27,29,10,Taskwell,no,lost,features
+D181,2026-08-25,mid,35,29,15,Taskwell,yes,lost,missing SSO
+D182,2026-08-27,small,12,29,25,Kessler Flow,no,lost,price
+D183,2026-08-31,small,10,29,10,none,yes,won,
+D184,2026-09-01,mid,34,29,25,Kessler Flow,no,lost,timing
+D185,2026-09-02,mid,23,29,15,Orbis Projects,yes,lost,features
+D186,2026-09-03,large,291,29,5,Taskwell,yes,lost,missing SSO
+D187,2026-09-03,mid,33,29,0,none,no,won,
+D188,2026-09-06,small,11,29,0,Brightline,no,lost,features
+D189,2026-09-11,mid,23,29,5,Kessler Flow,no,won,
+D190,2026-09-12,mid,65,29,5,Taskwell,no,lost,features
+D191,2026-09-15,large,274,29,10,Orbis Projects,yes,won,
+D192,2026-09-18,large,251,29,20,Brightline,yes,lost,price
+D193,2026-09-19,mid,64,29,0,Kessler Flow,no,won,
+D194,2026-09-22,mid,26,29,15,Brightline,yes,won,
+D195,2026-09-22,mid,66,29,10,none,no,won,
+D196,2026-09-23,large,273,29,20,Taskwell,yes,lost,missing SSO
+D197,2026-09-24,mid,35,29,20,Orbis Projects,yes,lost,missing SSO
+D198,2026-09-26,small,8,29,25,Taskwell,yes,lost,minimum of 10 users
+D199,2026-09-28,mid,94,29,15,Kessler Flow,yes,lost,price
+D200,2026-09-28,small,6,29,0,Kessler Flow,no,lost,minimum of 10 users

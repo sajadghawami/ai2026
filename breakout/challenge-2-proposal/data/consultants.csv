@@ -1,0 +1,49 @@
+name,level,day_rate_eur,sectors,languages,office,available_from
+Tara Ortmann,Partner,3400,energy; utilities,de; en,Cologne,2027-01-11
+Lukas Winter,Partner,3200,furniture; retail,de; en,Vienna,2026-11-02
+Simon Reiter,Partner,3000,retail; industrial goods,en,Vienna,2026-12-07
+Lukas Corell,Partner,3400,consumer goods; banking,de; en,Vienna,2026-10-19
+Yusuf Kraus,Manager,2250,energy; rail,de; en,Cologne,2026-11-16
+Vera Moser,Manager,1950,energy; utilities,de; en,Vienna,2027-02-01
+Lukas Unger,Manager,2100,industrial goods; banking,de; en,Vienna,2027-01-18
+Elif Thal,Manager,1950,utilities; retail,de; en,Vienna,2026-10-19
+Felix Brandl,Manager,2250,retail; software,de; en,Cologne,2026-10-19
+Vera Lenz,Manager,2250,utilities; industrial goods,en,Cologne,2027-01-18
+Elif Ebner,Manager,2100,banking; rail,de; en,Vienna,2026-12-14
+Jonas Demir,Manager,2100,industrial goods; telecom,de; en; fr,Cologne,2026-12-07
+Paul Albers,Manager,2250,retail; industrial goods,de; en,Cologne,2026-10-19
+Elif Reiter,Manager,1950,telecom; energy,de; en; fr,Vienna,2026-11-30
+Clara Seidl,Manager,2250,consumer goods; furniture,de; en; fr,Cologne,2026-10-19
+Tara Albers,Manager,2100,rail; utilities,de; en,Cologne,2026-12-28
+Hannes Moser,Consultant,1500,energy; banking,de; en,Cologne,2026-11-09
+Felix Thal,Consultant,1400,utilities; energy,en,Vienna,2026-11-23
+Ines Moser,Consultant,1300,energy; telecom,de,Cologne,2027-01-04
+Zoe Seidl,Consultant,1400,furniture; consumer goods,de; en,Cologne,2026-11-30
+Uwe Zeller,Consultant,1300,retail; furniture,de,Vienna,2027-03-01
+David Falk,Consultant,1300,consumer goods; furniture,de; en,Cologne,2026-10-12
+Felix Gruber,Consultant,1400,banking; energy,de; en,Cologne,2026-11-02
+Yusuf Gruber,Consultant,1300,banking; retail,en,Cologne,2026-12-14
+Olga Unger,Consultant,1300,software; industrial goods,de; en,Cologne,2026-12-28
+Tara Brandl,Consultant,1400,telecom; furniture,de; en,Cologne,2026-10-19
+Anna Moser,Consultant,1300,furniture; banking,de; en,Vienna,2026-10-12
+Lukas Pichler,Consultant,1500,industrial goods; software,de; en,Vienna,2026-10-12
+Mara Lenz,Consultant,1500,software; furniture,de; en,Cologne,2026-12-07
+Jonas Albers,Consultant,1500,furniture; utilities,de; en,Cologne,2026-10-12
+Elif Albers,Consultant,1300,retail; energy,de; en,Vienna,2026-11-16
+Paul Gruber,Consultant,1500,telecom; utilities,de; en,Vienna,2026-10-26
+Clara Ortmann,Consultant,1400,rail; consumer goods,de; en,Cologne,2027-01-04
+Paul Iversen,Consultant,1500,furniture; industrial goods,de; en,Cologne,2026-10-26
+Clara Lenz,Consultant,1500,utilities; industrial goods,de; en; fr,Cologne,2026-10-26
+Zoe Kraus,Consultant,1500,banking; utilities,en,Cologne,2026-12-14
+Jonas Reiter,Consultant,1400,utilities; industrial goods,de; en,Cologne,2026-11-02
+Vera Vogt,Consultant,1500,furniture; retail,de; en,Cologne,2026-11-30
+Ben Kraus,Consultant,1300,consumer goods; banking,en,Cologne,2027-01-18
+Jonas Zeller,Consultant,1300,software; utilities,en,Cologne,2027-01-18
+Ines Novak,Consultant,1300,furniture; banking,de; en,Cologne,2026-12-21
+Greta Thal,Consultant,1500,rail; furniture,de; en,Vienna,2027-01-04
+Hannes Albers,Consultant,1400,furniture; retail,de; en,Cologne,2027-01-04
+Mara Novak,Consultant,1300,utilities; energy,de; en; fr,Cologne,2027-01-18
+David Hoff,Consultant,1300,consumer goods; banking,de; en; fr,Cologne,2026-11-16
+Zoe Hoff,Consultant,1400,furniture; banking,de; en; fr,Vienna,2026-12-07
+Clara Reiter,Consultant,1300,retail; banking,de; en,Vienna,2026-12-14
+Greta Hoff,Consultant,1500,utilities; telecom,de; en,Cologne,2026-11-02

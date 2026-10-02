@@ -1,9 +1,17 @@
 competitor,plan,price_per_user_month_eur,billing,min_users,key_features,target_segment
 Taskwell,Team,12,monthly,1,"boards, basic reports",small teams
-Taskwell,Business,24,annual,10,"boards, reports, time tracking, SSO",mid-sized companies
+Taskwell,Business,24,annual,10,"boards, reports, time tracking, SSO (since January 2026)",mid-sized companies
+Taskwell,Enterprise,39,annual,100,"everything in Business, audit log, dedicated support",large companies
 Orbis Projects,Standard,19,monthly,5,"boards, Gantt charts, reports",mid-sized companies
 Orbis Projects,Premium,34,annual,20,"Gantt charts, portfolio view, SSO, audit log",mid-sized and large companies
+Kessler Flow,Starter,15,monthly,3,"Gantt charts, time tracking",small teams
 Kessler Flow,Professional,27,annual,10,"Gantt charts, resource planning, time tracking",mid-sized companies
 Kessler Flow,Enterprise,49,annual,50,"resource planning, SSO, audit log, dedicated support",large companies
 Brightline,Growth,22,monthly,3,"boards, automation, reports",small and mid-sized companies
+Brightline,Scale,36,annual,25,"automation, SSO, portfolio view",mid-sized and large companies
 Nordwind PM,Corporate,41,annual,100,"portfolio view, SSO, audit log, on-premise option",large companies
+Nordwind PM,Corporate Plus,55,annual,250,"everything in Corporate, private cloud, 24/7 support",very large companies
+Fieldnote,Pro,18,monthly,1,"boards, docs, basic Gantt",small and mid-sized companies
+Fieldnote,Business,26,annual,10,"docs, Gantt charts, SSO",mid-sized companies
+Opstack,Team,21,monthly,5,"resource planning, reports",mid-sized companies
+Opstack,Company,31,annual,30,"resource planning, portfolio view, SSO",mid-sized and large companies

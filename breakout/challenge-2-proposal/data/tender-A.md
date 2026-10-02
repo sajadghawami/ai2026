@@ -20,6 +20,7 @@ Our tariffs have grown over fifteen years. We have 23 electricity tariffs and 11
 - Budget ceiling: €240,000 excluding VAT. Offers above it are excluded.
 - At least one reference from the energy sector within the last three years is mandatory.
 - The project lead must be on site in Lindental at least two days per week.
+- The proposal must name the project lead and the team members and their experience in the energy sector.
 
 ## Format of the proposal
 

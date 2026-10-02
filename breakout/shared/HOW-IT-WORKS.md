@@ -13,6 +13,7 @@ In the talk, the harness was the body around the model: it runs the loop and pas
 - The output of one agent is pasted into the chat of the next one. Nothing else is passed on.
 - A **judge agent** scores the final result against criteria your group defines.
 - The developers in your group build the same chain in Codex, so it runs without copy and paste.
+- The data is bigger than one screen. Let ChatGPT analyze the files with code instead of reading them by eye.
 
 ## Roles
 
@@ -29,10 +30,13 @@ More people than roles? Pair up with an agent owner.
 
 | Min | What |
 |---|---|
-| 0–5 | Read the brief. Pick roles. Open a shared place for handoffs (your group's Teams chat or one shared document). |
-| 5–20 | Everyone works on their own part with their role card. Product owner and tester agree on the criteria. |
-| 20–35 | Run the whole chain on case A. The judge scores it. Improve the weakest agent. Run again, or run case B. |
-| 35–40 | Prepare the demo. |
+| 0–5 | Read the brief. Pick roles. Open your group's Teams chat for the handoffs. |
+| 5–15 | Everyone works on their own part with their role card. Product owner and tester agree on the criteria. |
+| 15–25 | Run the whole chain on case A. The judge scores it. |
+| 25–30 | Improve the weakest agent. Run again. |
+| 30 | **Case B arrives** in your Teams chat: new data your chain has never seen. |
+| 30–37 | Run your improved chain on case B, unchanged. The judge scores it. Does it hold up? |
+| 37–40 | Prepare the demo. |
 
 ## Three rules
 
@@ -43,5 +47,5 @@ More people than roles? Pair up with an agent owner.
 ## The demo (3 minutes)
 
 1. The chain: which agents, in which order.
-2. The judge's score on the first run and on the last run.
+2. The judge's scores: first run on case A, last run on case A, and case B.
 3. One thing that went wrong, and what you changed.

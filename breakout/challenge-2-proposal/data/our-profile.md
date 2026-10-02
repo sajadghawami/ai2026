@@ -1,9 +1,9 @@
 # Our firm (fictional): Merkat Advisory
 
-- 60 consultants, offices in Cologne and Vienna.
+- 48 consultants, offices in Cologne and Vienna.
 - Focus: pricing strategy and sales effectiveness.
-- Day rates: Partner €3,200, Manager €2,100, Consultant €1,400.
-- A typical project team: 1 Partner (10% of the project days), 1 Manager (40%), 2 Consultants (full time).
-- References we may name: a regional gas supplier (tariff redesign, 2024), a kitchen manufacturer (dealer discount system, 2025), a rail operator (ticket pricing, 2023).
-- We have no reference in water supply and none outside Europe.
+- Everyone's day rate, sector experience and availability is in `consultants.csv`.
+- A typical project team: 1 Partner (about 10% of the project days), 1 Manager (about 40%), 2 Consultants (full time).
+- Past projects are in `references.csv`. We may only name a client if `may_name_client` is "yes".
 - Earliest project start: three weeks after the contract is signed.
+- `past-proposals.csv` shows how our earlier proposals did.

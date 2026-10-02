@@ -13,9 +13,9 @@ Open this folder in Codex and say `run the chain on case A`. `AGENTS.md` tells C
 A judge that is an LLM can be talked into a good score. Some things can be checked with code instead. Ask Codex to build `checks.py` with tests (`pytest`) for the checks below, then run them on the latest result in `runs/`.
 
 - Every euro amount and percentage in the memo appears in `data/` or is a correct calculation from it. Print the ones that don't.
+- Recompute the win rates the memo quotes (by quarter, by competitor, by discount level) from `deals.csv`.
 - The memo contains exactly one recommended price, as a number.
 - The memo is at most 250 words.
-- The memo names at least one competitor from `data/competitors.csv` by name.
 
 Keep the checks honest: they read the original data files, never the agents' output, to find out what is true.
 
