@@ -24,7 +24,7 @@ Build an agent team that turns the data into that memo.
   - `competitors.csv`: 16 competitor plans
   - `deals.csv`: 200 won and lost deals from the last 12 months
   - `usage.csv`: 180 customers, paid users against active users
-- **Case B, a planned Enterprise plan.** Arrives in your Teams chat at minute 30. Run your improved chain on it without changing the instructions first.
+- **Case B, a planned Enterprise plan.** In the folder `case-b/`. **Open it only at minute 30.** Run your improved chain on it without changing the instructions first.
 
 ## What good looks like (starting point; the product owner decides)
 

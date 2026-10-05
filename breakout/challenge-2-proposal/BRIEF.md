@@ -18,7 +18,7 @@ A tender arrives on Monday, the proposal is due on Friday, and the first day goe
 ## The cases
 
 - **Case A:** `data/tender-A.md`, a regional energy supplier.
-- **Case B:** a second tender. Arrives in your Teams chat at minute 30. Run your improved chain on it without changing the instructions first.
+- **Case B:** a second tender, in the folder `case-b/`. **Open it only at minute 30.** Run your improved chain on it without changing the instructions first.
 
 Both cases use the files of your fictional consulting firm in `data/`:
 

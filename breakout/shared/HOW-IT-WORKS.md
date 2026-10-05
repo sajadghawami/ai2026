@@ -34,7 +34,7 @@ More people than roles? Pair up with an agent owner.
 | 5–15 | Everyone works on their own part with their role card. Product owner and tester agree on the criteria. |
 | 15–25 | Run the whole chain on case A. The judge scores it. |
 | 25–30 | Improve the weakest agent. Run again. |
-| 30 | **Case B arrives** in your Teams chat: new data your chain has never seen. |
+| 30 | **Open the `case-b` folder** of your challenge: new data your chain has never seen. |
 | 30–37 | Run your improved chain on case B, unchanged. The judge scores it. Does it hold up? |
 | 37–40 | Prepare the demo. |
 

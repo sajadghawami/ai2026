@@ -1,0 +1,151 @@
+respondent_id,type,users,current_tool,top_need,willingness_to_pay_eur_per_user_month,would_buy_enterprise
+R001,customer,639,PlanPilot Pro,SSO,38,no
+R002,customer,364,PlanPilot Pro,on-premise,60,no
+R003,customer,190,PlanPilot Pro,portfolio view,48,no
+R004,customer,765,PlanPilot Pro,portfolio view,44,yes
+R005,customer,589,PlanPilot Pro,SSO,40,no
+R006,customer,414,PlanPilot Pro,SSO,49,yes
+R007,customer,197,PlanPilot Pro,portfolio view,25,maybe
+R008,customer,612,PlanPilot Pro,SSO,47,yes
+R009,customer,887,PlanPilot Pro,on-premise,52,no
+R010,customer,222,PlanPilot Pro,portfolio view,41,maybe
+R011,customer,765,PlanPilot Pro,on-premise,53,no
+R012,customer,417,PlanPilot Pro,audit log,39,no
+R013,customer,744,PlanPilot Pro,dedicated support,30,maybe
+R014,customer,355,PlanPilot Pro,SSO,55,yes
+R015,customer,614,PlanPilot Pro,portfolio view,35,no
+R016,customer,261,PlanPilot Pro,portfolio view,43,yes
+R017,customer,126,PlanPilot Pro,portfolio view,42,yes
+R018,customer,510,PlanPilot Pro,audit log,36,maybe
+R019,customer,454,PlanPilot Pro,SSO,46,yes
+R020,customer,278,PlanPilot Pro,dedicated support,38,maybe
+R021,customer,292,PlanPilot Pro,SSO,43,yes
+R022,customer,313,PlanPilot Pro,on-premise,57,no
+R023,customer,450,PlanPilot Pro,portfolio view,25,no
+R024,customer,550,PlanPilot Pro,SSO,38,maybe
+R025,customer,181,PlanPilot Pro,portfolio view,36,no
+R026,customer,868,PlanPilot Pro,portfolio view,42,yes
+R027,customer,393,PlanPilot Pro,on-premise,50,no
+R028,customer,284,PlanPilot Pro,dedicated support,32,maybe
+R029,customer,746,PlanPilot Pro,SSO,51,maybe
+R030,customer,306,PlanPilot Pro,portfolio view,37,no
+R031,customer,401,PlanPilot Pro,portfolio view,44,yes
+R032,customer,164,PlanPilot Pro,on-premise,50,no
+R033,customer,223,PlanPilot Pro,SSO,48,no
+R034,customer,634,PlanPilot Pro,on-premise,48,no
+R035,customer,296,PlanPilot Pro,SSO,41,no
+R036,customer,630,PlanPilot Pro,audit log,36,no
+R037,customer,509,PlanPilot Pro,SSO,39,no
+R038,customer,413,PlanPilot Pro,audit log,25,maybe
+R039,customer,420,PlanPilot Pro,portfolio view,25,maybe
+R040,customer,900,PlanPilot Pro,SSO,62,yes
+R041,prospect,378,spreadsheets,dedicated support,47,yes
+R042,prospect,398,Nordwind PM,portfolio view,35,maybe
+R043,prospect,819,Taskwell,portfolio view,36,maybe
+R044,prospect,455,Nordwind PM,portfolio view,42,yes
+R045,prospect,183,Taskwell,portfolio view,30,maybe
+R046,prospect,611,Taskwell,audit log,34,maybe
+R047,prospect,848,Kessler Flow,on-premise,57,no
+R048,prospect,457,spreadsheets,SSO,51,yes
+R049,prospect,369,Orbis Projects,SSO,47,yes
+R050,prospect,804,Nordwind PM,SSO,41,maybe
+R051,prospect,617,Orbis Projects,SSO,43,no
+R052,prospect,414,Taskwell,portfolio view,42,yes
+R053,prospect,677,Kessler Flow,SSO,50,yes
+R054,prospect,452,Orbis Projects,audit log,30,no
+R055,prospect,716,Orbis Projects,SSO,29,maybe
+R056,prospect,266,Nordwind PM,portfolio view,40,maybe
+R057,prospect,419,Nordwind PM,SSO,45,yes
+R058,prospect,784,Nordwind PM,audit log,48,yes
+R059,prospect,357,spreadsheets,portfolio view,32,maybe
+R060,prospect,285,Orbis Projects,portfolio view,36,maybe
+R061,prospect,590,Taskwell,portfolio view,35,maybe
+R062,prospect,179,spreadsheets,portfolio view,31,maybe
+R063,prospect,808,Orbis Projects,portfolio view,31,no
+R064,prospect,652,Nordwind PM,SSO,45,yes
+R065,prospect,759,Nordwind PM,SSO,47,yes
+R066,prospect,605,Taskwell,audit log,51,yes
+R067,prospect,551,Taskwell,dedicated support,41,no
+R068,prospect,161,Taskwell,portfolio view,41,maybe
+R069,prospect,543,Taskwell,portfolio view,25,no
+R070,prospect,612,Orbis Projects,audit log,51,no
+R071,prospect,704,Taskwell,on-premise,47,no
+R072,prospect,544,Orbis Projects,dedicated support,36,maybe
+R073,prospect,544,Orbis Projects,on-premise,50,no
+R074,prospect,650,Taskwell,SSO,45,maybe
+R075,prospect,106,spreadsheets,SSO,37,no
+R076,prospect,239,Kessler Flow,portfolio view,39,maybe
+R077,prospect,855,Nordwind PM,audit log,33,maybe
+R078,prospect,244,Taskwell,on-premise,56,no
+R079,prospect,433,Orbis Projects,SSO,54,yes
+R080,prospect,539,Kessler Flow,SSO,45,yes
+R081,prospect,807,Kessler Flow,SSO,44,yes
+R082,prospect,517,Orbis Projects,SSO,46,maybe
+R083,prospect,393,Orbis Projects,audit log,41,maybe
+R084,prospect,296,Kessler Flow,portfolio view,43,yes
+R085,prospect,439,spreadsheets,portfolio view,31,no
+R086,prospect,630,Orbis Projects,SSO,40,maybe
+R087,prospect,770,Taskwell,SSO,42,no
+R088,prospect,751,Taskwell,on-premise,48,no
+R089,prospect,231,Kessler Flow,portfolio view,36,maybe
+R090,prospect,106,Nordwind PM,portfolio view,35,maybe
+R091,prospect,438,Nordwind PM,portfolio view,32,maybe
+R092,prospect,203,Orbis Projects,SSO,54,yes
+R093,prospect,688,Kessler Flow,SSO,43,yes
+R094,prospect,228,spreadsheets,portfolio view,40,maybe
+R095,prospect,386,Orbis Projects,dedicated support,32,no
+R096,prospect,288,Taskwell,SSO,29,no
+R097,prospect,752,spreadsheets,portfolio view,34,maybe
+R098,prospect,195,Taskwell,SSO,61,yes
+R099,prospect,146,Nordwind PM,on-premise,46,no
+R100,prospect,534,Orbis Projects,SSO,48,yes
+R101,prospect,417,Kessler Flow,SSO,39,maybe
+R102,prospect,800,Taskwell,SSO,36,no
+R103,prospect,832,Taskwell,portfolio view,41,maybe
+R104,prospect,614,Taskwell,SSO,49,yes
+R105,prospect,748,spreadsheets,dedicated support,29,no
+R106,prospect,887,Kessler Flow,portfolio view,42,yes
+R107,prospect,797,Kessler Flow,dedicated support,33,maybe
+R108,prospect,626,spreadsheets,on-premise,45,no
+R109,prospect,764,Kessler Flow,on-premise,49,no
+R110,prospect,725,spreadsheets,SSO,39,no
+R111,prospect,402,Nordwind PM,SSO,42,yes
+R112,prospect,311,spreadsheets,SSO,41,no
+R113,prospect,537,Orbis Projects,SSO,45,yes
+R114,prospect,143,spreadsheets,portfolio view,41,no
+R115,prospect,280,Nordwind PM,SSO,50,yes
+R116,prospect,752,Orbis Projects,dedicated support,26,maybe
+R117,prospect,229,Nordwind PM,SSO,49,yes
+R118,prospect,655,spreadsheets,portfolio view,42,yes
+R119,prospect,602,Orbis Projects,SSO,34,maybe
+R120,prospect,190,Nordwind PM,SSO,42,maybe
+R121,prospect,424,spreadsheets,SSO,48,no
+R122,prospect,628,Kessler Flow,SSO,33,no
+R123,prospect,269,Kessler Flow,audit log,37,no
+R124,prospect,485,Kessler Flow,on-premise,52,no
+R125,prospect,565,Nordwind PM,SSO,44,yes
+R126,prospect,592,Orbis Projects,dedicated support,40,maybe
+R127,prospect,555,Orbis Projects,dedicated support,32,maybe
+R128,prospect,652,Nordwind PM,on-premise,59,no
+R129,prospect,300,Orbis Projects,on-premise,48,no
+R130,prospect,206,spreadsheets,audit log,41,maybe
+R131,prospect,696,spreadsheets,audit log,33,maybe
+R132,prospect,853,Orbis Projects,SSO,52,yes
+R133,prospect,418,Taskwell,SSO,41,no
+R134,prospect,392,Kessler Flow,SSO,52,maybe
+R135,prospect,383,spreadsheets,portfolio view,47,no
+R136,prospect,387,spreadsheets,portfolio view,44,maybe
+R137,prospect,262,Kessler Flow,on-premise,49,no
+R138,prospect,192,Nordwind PM,SSO,37,maybe
+R139,prospect,490,spreadsheets,SSO,43,yes
+R140,prospect,453,Taskwell,on-premise,59,no
+R141,prospect,303,Nordwind PM,portfolio view,44,maybe
+R142,prospect,846,Taskwell,audit log,33,maybe
+R143,prospect,180,Nordwind PM,audit log,30,maybe
+R144,prospect,500,Kessler Flow,dedicated support,25,maybe
+R145,prospect,479,Nordwind PM,SSO,50,yes
+R146,prospect,628,Orbis Projects,SSO,48,maybe
+R147,prospect,768,Kessler Flow,SSO,48,yes
+R148,prospect,295,spreadsheets,SSO,35,maybe
+R149,prospect,365,Taskwell,dedicated support,38,no
+R150,prospect,162,Kessler Flow,audit log,44,maybe

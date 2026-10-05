@@ -12,7 +12,7 @@ git clone https://github.com/sajadghawami/ai2026.git
 
 ## Part 1: Hands-on (30 min), folder `hands-on/`
 
-Let the model improve a prompt, then test it on data it has never seen.
+Let the model improve a prompt, then test it on data it has never seen, and finally on a final exam.
 
 - **ChatGPT:** follow `hands-on/STEP-CARD.docx` (or `STEP-CARD.md`).
 - **Codex:** open the `hands-on` folder in Codex and say `start the hands-on`.
@@ -22,7 +22,7 @@ Let the model improve a prompt, then test it on data it has never seen.
 Your group builds a small team of AI agents for one of two challenges. The cases are simplified, but they are real decisions, and you build a real agent network. You don't need to know anything about pricing.
 
 1. Read `breakout/shared/HOW-IT-WORKS` and find your role in `breakout/shared/ROLE-CARDS`.
-2. Open your challenge folder and read its `BRIEF`.
+2. Open your challenge folder and read its `BRIEF`. The `case-b` folder is for minute 30: please don't open it before.
 
 | Folder | Challenge |
 |---|---|

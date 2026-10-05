@@ -15,6 +15,8 @@ Each team handles one type of price objection. Many statements fit two teams. Th
 - `practice_labels.csv`: the correct `label` for each practice statement. Read it only after you have written your predictions, to look at the misses.
 - `test.csv`: 30 statements without labels. Use only in step 3.
 - `test_labels.csv`: the labels for the test. **Do not open this file yourself.** Only `score.py` reads it.
+- `final.csv`: 20 more statements for the final exam (step 4).
+- `final_labels.csv`: the labels for the final exam. **Do not open this file yourself.** Only `score.py` reads it.
 - `starter-prompt.txt`: the weak starting prompt.
 - `my-prompt.txt`: the current version of the participant's prompt (create it in step 1 as a copy of the starter prompt).
 - `score.py`: compares a predictions file with the labels. Usage: `python3 score.py predictions.csv practice_labels.csv` or `python3 score.py predictions.csv test_labels.csv`.
@@ -31,3 +33,4 @@ Each team handles one type of price objection. Many statements fit two teams. Th
 1. **Measure the starter prompt.** Copy `starter-prompt.txt` to `my-prompt.txt`. Classify all 60 practice statements into `predictions_practice.csv`. Run `score.py` against `practice_labels.csv`. Show the score and the misses.
 2. **Improve the prompt.** Look at the misses, propose rules that would have prevented them, rewrite `my-prompt.txt`, classify again, score again. Repeat two or three times. Show the score after each round.
 3. **The honest test.** Classify `test.csv` with the final `my-prompt.txt` into `predictions_test.csv`. Run `score.py` against `test_labels.csv`. Show both scores in percent, practice and test, and explain the gap in one or two sentences.
+4. **Round 2 and the final exam.** Look at the test misses, improve `my-prompt.txt` once more (rules, not statements). Classify `final.csv` into `predictions_final.csv`, run `score.py` against `final_labels.csv`, and show all three scores in percent: practice, test, final.

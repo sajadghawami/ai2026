@@ -10,7 +10,9 @@
 | `practice.csv` | 60 customer statements. For improving your prompt. |
 | `practice_labels.csv` | The correct team for each practice statement. |
 | `test.csv` | 30 new statements. For the final test only. |
-| `test_labels.csv` | The correct teams for the test. Upload only at the very end. |
+| `test_labels.csv` | The correct teams for the test. Upload only after step 3's answers. |
+| `final.csv` | 20 more new statements. For step 4 only. |
+| `final_labels.csv` | The correct teams for the final exam. Upload only at the very end. |
 | `starter-prompt.txt` | A first, weak prompt to start from. |
 
 Statements and correct answers are in separate files on purpose: the model must not see the answers while it classifies.
@@ -83,9 +85,27 @@ Write down your score: **Test: ____ / 30**
 
 ---
 
-## Compare your two numbers
+## Step 4: round 2 and the final exam (5 min)
 
-Turn both into percent (practice ÷ 60, test ÷ 30).
+In the **test chat**, send:
+
+```
+Look at the misses on the test. Which rules would have prevented them?
+Rewrite the prompt so that it gets these right. Write rules, do not copy statements.
+Show me the new prompt in a code block.
+```
+
+Open a **new chat**. Upload only `final.csv` and send the same message as in step 3, with the new prompt pasted in and `final.csv` instead of `test.csv`. When the table is there, upload `final_labels.csv` and ask for the score as "correct / 20".
+
+Write down your score: **Final exam: ____ / 20**
+
+Once you have improved the prompt on the test, the test can no longer tell you how good it is. That's why there is a final exam.
+
+---
+
+## Compare your numbers
+
+Turn them into percent (practice ÷ 60, test ÷ 30, final ÷ 20).
 
 - **About the same:** your prompt learned rules that carry over.
 - **Test clearly lower:** your prompt learned the practice file, not the task.
